@@ -1,6 +1,5 @@
 ---
 title: Our Coffee
-type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
@@ -68,6 +67,8 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
+  - author: Wim Vantomme
+    quote: Live is to short to waste your time
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
@@ -98,5 +99,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
